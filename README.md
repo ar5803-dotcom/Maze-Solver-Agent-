@@ -6,3 +6,4 @@ Various maze-solving algorithms contribute to the automated resolution of mazes,
 •	Breadth-First Algorithm
 •	A* Algorithm
 This comprehensive exploration of maze-solving methodologies showcases the synergy between AI, graph theory, and algorithms, providing valuable insights into the intricate world of maze navigation.
+ 
